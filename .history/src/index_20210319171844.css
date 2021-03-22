@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+*{
+  box-sizing:border-box;
+  
+}
+p, b, h1, h2, h3, h4, h5, h6, span,div{
+margin:0;
+padding:0;
+}
+
+code {
+font-family: 'Montserrat', sans-serif;
+}

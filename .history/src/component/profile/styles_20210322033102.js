@@ -1,0 +1,18 @@
+import styled from "styled-components";
+
+export const ProfileStyles = styled.div`
+height:100%;
+width:max-content;
+display:flex;
+justify-content:space-around;
+align-items:center;
+flex-wrap:wrap;
+margin-left:
+
+.imageContainer{
+  height:3.2rem;
+  width:3.2rem;
+  border-radius:50%;
+  border:2px solid red;
+}
+`;

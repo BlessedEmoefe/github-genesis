@@ -9,7 +9,7 @@ const Body = () => {
         <div className="section2">It's Our First</div>
         <div className="section3">Projistry</div>
         <div className="section4">
-          <b>Updates Coming Soon</b> git
+          <b>Updates Coming Soon</b>
         </div>
       </div>
     </BodyStyles>

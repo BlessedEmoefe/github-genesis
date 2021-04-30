@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const BodyStyles = styled.div`
   background: transparent;
   width: 100%;
+  min-height:100vh;
   .bodyContainer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
